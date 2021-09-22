@@ -1,0 +1,12 @@
+{
+  "name": "iportfolio",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node js/main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
