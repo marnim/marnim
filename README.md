@@ -4,6 +4,4 @@
 
 🌱 I’m currently working on Hand Pose Estimation
 
-💞️ I’m looking to collaborate on Hand Pose Estimation
-
-📫 How to reach me : marnimgalib@gmail.com
+📫 https://marnim.github.io/marnim/
